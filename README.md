@@ -1,4 +1,4 @@
-📌 To-Do List Application (Python – Console Based)
+📌 To-Do List Application (Python – Console Based)-
 
 A simple yet powerful console-based To-Do List Manager built using Python.
 This application allows users to add tasks, assign priority levels, mark tasks as completed, search tasks, sort tasks, and delete tasks.
